@@ -1,0 +1,6 @@
+interface:
+  display_name: "诺贝尔年度公告海报生成器"
+  short_description: "依据官方年度公告图，适配上传照片并还原人物尺度、插画表现与文字比例"
+  default_prompt: "使用 $nobel-poster-generator，根据我的照片生成贴合诺贝尔官方年度公告图构图的自定义海报。"
+policy:
+  allow_implicit_invocation: true
